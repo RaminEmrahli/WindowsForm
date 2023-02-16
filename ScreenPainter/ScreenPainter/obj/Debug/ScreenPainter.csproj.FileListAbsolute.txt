@@ -1,0 +1,11 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\bin\Debug\ScreenPainter.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\bin\Debug\ScreenPainter.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\bin\Debug\ScreenPainter.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.Form1.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\ScreenPainter\ScreenPainter\obj\Debug\ScreenPainter.pdb

@@ -1,0 +1,14 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\bin\Debug\figures.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\bin\Debug\figures.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\bin\Debug\figures.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.Form1.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.Properties.Resources.resources
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.csproj.GenerateResource.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.csproj.CopyComplete
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\figures\figures\obj\Debug\figures.pdb
